@@ -1,0 +1,10 @@
+assemblage électronique
+ipc-a-610
+exigence d'assemblage
+j-std-001
+Pcb
+ipc-a-600
+réusinage et réparation
+icp-7711/21
+
+CECI EST UN TEST
